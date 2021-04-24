@@ -1,0 +1,2 @@
+export const TODO_ADDED = "TODO_ADDED";
+export const CHANGE_COMPLETED = "TODO_COMPLETED";
